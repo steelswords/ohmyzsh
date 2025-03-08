@@ -1,0 +1,3 @@
+[submodule "plugins/zsh-nix-shell"]
+	path = plugins/zsh-nix-shell
+	url = https://github.com/chisui/zsh-nix-shell.git
